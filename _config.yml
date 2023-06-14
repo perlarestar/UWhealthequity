@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Arjee Restar"
+title                    : "Arjee Restar"
 title_separator          : "-"
 name                     : &name "Arjee Restar"
 description              : &description "Assistant Professor at University of Washington"
@@ -86,7 +86,7 @@ author:
   location         : "Seattle, WA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=oPWDJngAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
