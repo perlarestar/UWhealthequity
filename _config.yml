@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arjee Restar"
+title                    : "UW H.E.A.L.T.H. Equity Program"
 title_separator          : "-"
-name                     : &name "Arjee Restar"
-description              : &description "Assistant Professor at University of Washington"
+name                     : &name "UW H.E.A.L.T.H. Equity Program"
+description              : &description "UW H.E.A.L.T.H. Equity Program"
 url                      : "https://perlarestar.github.io/UWhealthequity/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/perlarestar/UWhealthequity"

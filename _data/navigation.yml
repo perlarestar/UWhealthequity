@@ -1,22 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Mission"
+    url: /mission/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Vision"
+    url: /vision/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Values"
+    url: /values/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Research Units"
+    url: /research-units/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Cross-Cutting Units"
+    url: /cross-units/
