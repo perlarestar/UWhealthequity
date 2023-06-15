@@ -13,7 +13,7 @@ name                     : &name "Arjee Restar"
 description              : &description "Assistant Professor at University of Washington"
 url                      : "https://perlarestar.github.io/arjee/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/perlarestar/arjeerestar.github.io"
+repository               : "https://github.com/perlarestar/arjee"
 teaser                   :  "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
