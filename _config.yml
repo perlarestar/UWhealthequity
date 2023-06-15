@@ -11,9 +11,9 @@ title                    : "Arjee Restar"
 title_separator          : "-"
 name                     : &name "Arjee Restar"
 description              : &description "Assistant Professor at University of Washington"
-url                      : "https://perlarestar.github.io/arjee/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://perlarestar.github.io/UWhealthequity/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/perlarestar/arjee"
+repository               : "https://github.com/perlarestar/UWhealthequity"
 teaser                   :  "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,12 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Arjee Restar"
+  name             : "UW H.E.A.L.T.H. Equity Program"
   avatar           : "profile.png"
-  bio              : "researcher, advocate, consultant"
+  bio              : "Home of the Hub for Education, Action, Leadership, and Training for Health Equity (H.E.A.L.T.H Equity Program)"
   location         : "Seattle, WA"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=oPWDJngAAAAJ&hl=en"
   email            : restar@uw.edu
 
 
